@@ -1,7 +1,6 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int m = image.length;
-        int n = image[0].length;
+       
 
         int orgcolor = image[sr][sc];
         
