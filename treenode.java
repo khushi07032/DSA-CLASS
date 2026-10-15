@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-public class Main {
+public class treenode {
 
     // Inorder: Left -> Root -> Right
     static void inorder(Node root) {
